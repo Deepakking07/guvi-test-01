@@ -1,4 +1,11 @@
 I am using github git 
 
-
+git add some changes 
 added some new lines 
+
+I have made some changes 1
+I have made some changes 2
+I have made some changes 3
+I have made some changes 4
+I have done some many changes 
+ git 
